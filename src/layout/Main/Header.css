@@ -1,0 +1,15 @@
+.nav-item {
+    background-color: black;
+    padding: 14px 0px;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: #fff;
+    margin-right: 30px;
+    font-weight: 600;
+}
+
+.nav-item a:hover {
+    color: orange;
+}
